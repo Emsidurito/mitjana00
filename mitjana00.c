@@ -1,5 +1,5 @@
-//Autor: dc1718daw2
-//Data i hora: 201712011403
+//Autor: Alejandro Napal
+//
 
 #include <stdio.h>
 
@@ -24,3 +24,4 @@ int main() {
 	printf("La mitjana resultant és: %.2f\n",mitjana);	
 	return 0;
 }
+
